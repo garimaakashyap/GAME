@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+}
+
+.div {
+  height: 200px;
+  width: 200px;
+  border: 7px solid black;
+  box-sizing: 20%;
+  border-radius: 25%;
+  margin: 1.5rem;
+}
+
+.mainContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.red {
+  background-color: rgb(218, 116, 116);
+}
+
+.yellow {
+  background-color: rgb(216, 216, 128);
+}
+
+.green {
+  background-color: rgb(94, 154, 177);
+}
+
+.blue {
+  background-color: rgb(120, 120, 215);
+}
+
+.gameflash {
+  background-color: white;
+}
+
+.userflash {
+  background-color: black;
+}
