@@ -1,2 +1,2 @@
-# Simson Say Game
+# Garima's Game
 
