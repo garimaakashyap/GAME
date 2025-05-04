@@ -32,6 +32,6 @@ How far can your memory go?
 
 📦 Simon-Says-Game/
 ┣ 📄 index.html ← Main HTML file
-┣ 📄 style.css ← CSS file for styling
+┣ 📄 game.css ← CSS file for styling
 ┣ 📄 game.js ← JavaScript game logic
 
