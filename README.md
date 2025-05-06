@@ -1,10 +1,12 @@
 🎮 Garima's Simon Says Memory Game
 A vibrant, browser-based memory game inspired by the iconic "Simon Says". This game challenges players to recall and replicate an ever-growing sequence of flashing colored buttons. As the game progresses, it gets increasingly difficult — pushing your memory to its limits!
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Built using pure HTML, CSS, and JavaScript, this project is a great example of clean UI, interactive logic, and engaging front-end development. Whether you're here to play or peek under the hood, welcome!
 
 ✨ Live Demo
-👉 Play the Game ()
+👉 Play the Game (https://garimaakashyap.github.io/GAME/)
 
 🎯 Objective
 The goal is simple:
