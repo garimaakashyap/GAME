@@ -1,4 +1,6 @@
 🎮 Garima's Simon Says Memory Game
+
+
 A vibrant, browser-based memory game inspired by the iconic "Simon Says". This game challenges players to recall and replicate an ever-growing sequence of flashing colored buttons. As the game progresses, it gets increasingly difficult — pushing your memory to its limits!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
